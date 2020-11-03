@@ -1,0 +1,11 @@
+{
+  "name": "devandrecruitsite",
+  "version": "1.0.0",
+  "description": "recruiting app focused on value for the dev, not the company.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Kaufmann",
+  "license": "ISC"
+}
